@@ -1,5 +1,8 @@
 # Enterprise Multi-Region Disaster Recovery Network on AWS with Transit Gateway Peering and Private S3 Endpoints
 
+![Enterprise Multi-Region DR Architecture](Screenshots/enterprise-multi-region-dr-network-tgw-private-s3.png)
+
+
 ## Project Overview
 
 This project demonstrates the design and implementation of a secure multi-region disaster recovery architecture on AWS using private networking, Transit Gateway (TGW) inter-region peering, and S3 Gateway Endpoints.
